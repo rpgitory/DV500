@@ -1,0 +1,33 @@
+﻿DV125_21_PAS_On Cloud Computing Fundamentals
+
+
+Q1 What is cloud computing?
+A1 It is a model for allowing convenient, on-demand access from anywhere to a shared pool of computing resources
+	
+Q2 What does cloud computing resources include?
+A2 server, storage, networking, applications, and services 
+	
+Q3 What are the five essential  characteristics of cloud computing?
+A3 on demand self service, broad network access,resource pooling, rapid elasticity,metering 
+	
+Q4 What are the three options for cloud deployments?
+A4 Public, private, hybrid cloud
+	
+Q5 What is a private cloud? 
+A5 fully controlled and managed and own by organization itself 
+	
+Q6 What is a Public Cloud?
+A6 maintained, managed by third party
+	
+Q7 What is a Hybrid cloud?
+A7 some functions and access managed by organization itself such as what access or data should user can access via public could and maintaining private cloud.
+	
+Q8 What are the 3 types of IT services available today?
+A8 Iaas, Paas, Saas
+	
+Q9 What are the services responsible for?
+A9 Iaas is responsible for infrastructure, Paas is responsible for platform and initial provide run time environment to clien, and Saas is responsible for provide application so client can directly use it.
+	
+Q10 How is IAAS helpful?
+A10 pre-build infrastructure so user or organization only have to use this infrastructure as they want. and all of the hardware stuff managed by cloud provider.
+	________________

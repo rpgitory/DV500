@@ -1,0 +1,32 @@
+﻿DV125_24_PAS_On Difference Between Cloud Computing and Virtualization
+
+
+Q1 What is virtualization?
+A1 virtualization is a part of cloud computing that need human interact to make virtual machine (need admin that can manage a virtual machine, configure it and doing all stuff)
+	
+Q2 What is done in a cloud computing environment?
+A2 it does not need admin bcz they have some folks which is known as Application Programmable interface which handles all the automations for creating hypervisor so customers can consume cloud products via API, control panel and other types of interfaces which are available to them.
+	
+Q3 What does API stand for:
+A3 Application programming interface
+	
+Q4 What is the function of API?
+A4 performing automation task as user needed or triggered 
+	
+Q5 What is the biggest difference between cloud computing and virtualization?
+A5 all of control plane activity such as creating, configuration, maintaining of virtual environments that managed by admin in virtual machine and that are out source in cloud computing by API.
+	
+Q6 What are the activities controlled through virtualization
+A6 Creation, configuration, and maintaining.
+	
+Q7 What benefit is there to using an API over normal virtualization?
+A7 doing task automated 
+	
+Q8 What are the benefits of virtualization?
+A8 Improved resource utilization, Increased flexibility and scalability, Enhanced disaster recovery and business continuity, cost saving, Improved agility and faster deployment, Simplified management, Testing and development efficiency, Green computing.
+	
+Q9 What are the characteristics of virtualization?
+A9 Abstraction, isolated, consolidation, Encapsulation, hardware Independence, Dynamic Resource allocation, Live migration, Resource Organization.
+	
+Q10 What is a hypervisor?
+A10 A hypervisor is software or firmware that enables the creation and management of virtual machines on a physical server, allowing for efficient utilization of hardware resources and the simultaneous running of multiple operating systems or instances.

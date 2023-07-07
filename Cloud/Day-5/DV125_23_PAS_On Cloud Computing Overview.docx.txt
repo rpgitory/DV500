@@ -1,0 +1,32 @@
+﻿DV125_23_PAS_On Cloud Computing Overview
+
+
+Q1 What is the concept of cloud computing?
+A1 It connects the large number of computers to a real time communication work
+	
+Q2 What are the three most common cloud offerings?
+A2 Iaas, Paas, Saas
+	
+Q3 What is an example of infrastructure as a service?
+A3 Amazon Web Services (AWS) Elastic Compute Cloud (EC2)
+	
+Q4 What is an example of a platform as a service?
+A4 Microsoft Azure App Service
+	
+Q5 What is an example of software as a service?
+A5 Gmail, google docs, msoffice365
+	
+Q6 What are the benefits of the cloud against a corporate networK?
+A6 no need to maintain, managed, and upgrade services that all will take care by cloud provider, skilled staff
+	
+Q7 What has made cloud computing popular?
+A7 highly availability, flexibility, scalability, redundancy, cost saving, storage on demand 
+	
+Q8 What are the core benefits of using cloud computing?
+A8 flexible, scalable, backups, redundancy.
+	
+Q9 How does a business benefit from cloud computing?
+A9 if business grow suddenly it can expand services as we needed and if suddenly go down it will automatically reduce resources. disaster recovery plans, automatic multiple backups.
+	
+Q10 Why has cloud computing grown so rapidly?
+A10 bcz of scalability and flexibility, pay as you use

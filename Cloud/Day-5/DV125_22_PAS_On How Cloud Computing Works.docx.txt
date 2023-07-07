@@ -1,0 +1,32 @@
+﻿DV125_22_PAS_On How Cloud Computing Works
+
+
+Q1 Why is the term CLOUD used?
+A1 it means access anywhere from world anytime like cloud 
+	
+Q2 How can cloud computing be accessed?
+A2 through internet 
+	
+Q3 How does cloud computing work?
+A3 Cloud computing works by using remote servers and networks to store, manage, and process data and applications, providing on-demand access to computing resources over the internet.
+	
+Q4 What is an example of widely used cloud computing?
+A4 google photos, google drive, googles docs, msoffice365 and so on
+
+Q5 How is stuff stored on the cloud?
+A5 on infinite space in world wide web
+	
+Q6 What do cloud computing companies do in case of data corruption?
+A6 they have multiple backup and redundancy 
+	
+Q7 What does the Central server do?
+A7 that monitoring traffic and client demands and ensuring everything is going smoothly, it has some set up rules which known as protocols, it has a middleware installed which allows computer and network to communicate each other.
+	
+Q8 What is a negative side of cloud computing?
+A8 own by third party so if anything changes such as policy or anything user must agree with that, security and privacy bcz user hading data over to them
+	
+Q9 How do cloud computing companies secure your files?
+A9 multiple backups, it has disaster recovery plans.
+	
+Q10 What effect could cloud computing have on the IT industry?
+A10 Cloud computing can have a transformative effect on the IT industry by enabling greater scalability, flexibility, and cost-efficiency, leading to changes in the way IT infrastructure and services are provisioned, managed, and consumed. It can also drive innovation and open up new opportunities for businesses.
