@@ -1,0 +1,34 @@
+﻿DV125_4_PAS_On key Concepts and Terminology
+
+
+
+
+Q1 What are key concepts in cloud services?
+ANS High availability, scalability, agility, fault tolerance, disaster recovery, global reach, predictive cost consideration, technical skill requirements, increase productivity. 
+
+Q2 What is high availability in cloud services?
+ANS It is a ability to keep services up and run for long periods of time
+
+Q3 What is scalability in cloud services?
+ANS It can ability to increase or decrease resources for any given workload. It can not done automatically means someone needs to upgrade it.
+
+Q4 What is elasticity in cloud services?
+ANS It is ability to automatically or dynamically scale up and scale down resources.
+
+Q5 What is the difference between elasticity and scalability?
+ANS Scalability is not automatically process where elasticity is done by automatic means it can do anytime when resources needed without any user interaction or usr permission 
+	
+Q6 What is agility in cloud services?
+ANS Ability to react quickly ex: cloud service can allocate and deallocate resource quickly. They are provided on demand to self service portal.
+
+Q7 What is fault tolerance in cloud services?
+ANS Ability to running up and running even if component and services is failure (Redundancy)
+
+Q8 What is disaster recovery in cloud services?
+ANS Ability to recver an event which is taken down a cloud service. Cloud service disaster recovery can happen very quicky with automation. 
+	
+Q9 What are customer latency capabilities in cloud services?
+ANS If customer are experience in slowness with particular cloud service they are should be experience some latency even though morden fiber optics are fast can still take time to services react to customer if services are not local to the customer.
+
+Q10 What are predictive cost considerations in cloud services?
+ANS It is ability of the user to predict what cost they will get from cloud service.

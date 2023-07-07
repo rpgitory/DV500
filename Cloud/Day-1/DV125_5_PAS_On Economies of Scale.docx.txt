@@ -1,0 +1,34 @@
+﻿DV125_5_PAS_On Economies of Scale
+
+
+
+
+1 What is the concept of economies of scale?
+ANS To ability to do things more cheaply and efficiently when operating a larger scale in comparison to operating into smaller scale 
+
+2 In cloud services which companies are able to leverage from economies of scale.
+ANS Large cloud services provider, google, microsoft, amazon
+
+3 In what way have the large cloud service providers been able to provide cloud services at lower prices to their users?
+ANS Ability to acquire hardware at lower cost and provide to user 
+
+4 Cloud service providers competing against each other is also the reason for lower cloud service prices for users? True/False
+ANS True
+
+5 What is Investment in R&D in economies of  scope and scale?
+ANS Investment in R&D in economies of scope and scale refers to the allocation of resources towards research and development activities aimed at expanding the range of services and improving operational efficiency in cloud computing.
+
+6 What is Faster R&D innovation in economies of  scope and scale?
+ANS Faster R&D innovation in economies of scope and scale in cloud computing refers to the ability of cloud service providers to accelerate the research and development processes to introduce new services, features, and improvements at a rapid pace.
+
+7 What is the Increased success rate in economies of  scope and scale?
+ANS Increased success rate in economies of scope and scale refers to the higher probability of achieving successful outcomes in terms of service offerings, market penetration, and customer satisfaction due to the broader range of services and the ability to leverage economies of scale in cloud computing.
+ 
+8 What is Infrastructure costs decrease in economies of  scope and scale?
+ANS Infrastructure costs decrease in economies of scope and scale refers to the reduction in overall costs associated with infrastructure and hardware investments due to the ability to share and leverage resources across multiple services and customers in cloud computing. By pooling resources and optimizing their utilization, cloud service providers can achieve cost efficiencies, leading to lower infrastructure costs for both providers and users.
+
+9 What is Utilization variability decreases in economies of  scope and scale?
+ANS Utilization variability decreases in economies of scope and scale refers to the phenomenon where the fluctuation in resource usage and demand is minimized in cloud computing environments. By aggregating and virtualizing resources, cloud service providers can balance workloads across multiple users and applications, resulting in more stable and predictable resource utilization. This leads to improved efficiency and better resource allocation, reducing the impact of utilization variability on overall system performance and ensuring optimal utilization of available resources.
+
+10 What is Faster revenue growth in economies of  scope and scale?
+ANS Faster revenue growth in economies of scope and scale refers to the potential for increased revenue generation through the expansion of services and customer base in cloud computing. By leveraging the scalability and reach of cloud infrastructure, businesses can rapidly deploy and offer new products or services to a larger customer base. This agility and ability to scale quickly enable organizations to capture new market opportunities, enter new regions, and attract more customers, leading to accelerated revenue growth compared to traditional on-premises solutions.

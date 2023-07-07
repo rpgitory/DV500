@@ -1,0 +1,34 @@
+﻿DV125_3_PAS_On Benefits of Cloud Computing in a new window
+
+
+
+
+1 Only New startup companies benefit from cloud companies and not the existing large companies? True/False
+ANS False
+
+2 What are some benefits of using cloud computing?
+ANS Cost effective solution, consumption based or pay as you use pricing model, no upfront cost(no initial cost for buying hardware and all just rent it and pay it),no need to purchase and manage the infrastructure, scalability, elasticity, current / updated, redundancy 
+
+3 What are key attractive features of cloud computing?
+ANS It can scalable and elastic (flexible )
+
+4 What are two types of scaling?
+ANS Horizontal and Vertical 
+
+5 What is Horizontal scaling?
+ANS It is a process where if there is some servers running on it and suddenly high volume of request appeared in server so at that time cloud provider will increase a number of server with same configuration so it can manage those requests and they can charge you based on servers. [it is call as scaling out]
+
+6 What is Vertical scaling?
+ANS It is process when server is increasing it size or memory or number of cpu that used by server [it is called as scaling up]
+
+7 Cloud Computing is Current/Updated? True/False.
+ANS True
+
+8 How reliable is the cloud?
+ANS Cloud provider is responsible for all such as availability, data backups, upgradation, disaster recovery.
+
+9 How is the cloud available globally?
+ANS Cloud is globally bcz of several reasons: different geolocation (so user can have a minimum latency when accessing service, also for backup )
+
+10 Cloud computing is more secure compared to physical devices? True/False.
+ANS True

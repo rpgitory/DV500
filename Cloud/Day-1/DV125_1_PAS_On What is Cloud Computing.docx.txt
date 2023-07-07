@@ -1,0 +1,34 @@
+﻿DV125_1_SAS_On What is Cloud Computing -1.
+
+
+
+
+Q1 What type of hardware do we need to build an application?
+Ans Server, OS and licenses, firewall, router, switches, databases, and many more.
+
+Q2 What is the difference between capital expenditure and operational expenditure?
+Ans Capital expenditure is like cost that company should spend money initially to start or run business(buying hardware, firewalls) while operational expenditure is cost that for maintaining software or hardware as well(software licenses).
+
+Q3 What type of resource do small businesses and companies have now that wasn’t available traditionally, where companies don’t have to invest in hardware? 
+Ans Online server, and online services such as Iaas, Paas, Saas
+
+A4 What are some examples of cloud providers?
+Ans Google, microsoft azure, aws
+
+Q5 What is the benefit of using the cloud?
+Ans No need to worry about data lost, maintaining hardware, physical as well as other logical security like firewall. 
+
+Q6 What is the difference between initial traditional hardware setup and cloud?
+Ans Initial traditional hardware will take much time to implement and in future any upgradation or degradation needed it will take more time to implement it Where in cloud service it is more scalable and more reliable.
+
+Q7 What is cloud computing?
+Ans Cloud computing is a model for enabling ubiquitous, conventional, on-demand network access to a shared pool of configurable computing resources that can be repair provisional and released with minimal management effort or services provider interaction.
+
+Q8 What is the benefit of using cloud computing?
+Ans As a user we can create a virtual machine, storage, sever with ssd and as much user want whenever user wanted. So user have own access to build own server and run application 
+
+Q9 Where can someone access cloud computing from?
+Ans Internet 
+
+Q10 What was the example given by the federal CIO on cloud computing?
+Ans There was a time when every household town, farm or village had its own water well. Today, shared public utilities give us access to clean water by simply turing on the tap; could computing works in a similar fashion. Just like water from tap in your kitchen,could computing is same as user can turn of or turn on when needed means they can use services anytime and anytime they can leave services. And services provided is safe and secure with 24 hours availability. So when tap isn’t on at a time not only saving water but also not paying for that water. This same apply with cloud computing.
