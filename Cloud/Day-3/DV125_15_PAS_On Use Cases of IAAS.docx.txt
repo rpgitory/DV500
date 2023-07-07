@@ -1,0 +1,34 @@
+﻿DV125_15_PAS_On Use Cases of IAAS.
+
+
+
+
+1 What is infrastructure as a service provider?
+ANS Infrastructure as a service provider means infrastructure as a service provider will provide server, hardwares, routers, switches, firewalls, cabling, a lot of security, monitoring, log access, load balancing, clustering, storage which makes an infrastructure as a service.
+	
+2 What are common usage of infrastructure as a service?
+ANS Common usage of infrastructure as a service means on a local data center in an office users might have workloads running on a virtual machine and if the organization is looking to adopt cloud as a platform then they might want to lift and shift those virtual machines to the cloud. 
+	
+3 An organization might want to lift and shift virtual machines to the cloud with infrastructure as a service? True/False/
+ANS True.
+	
+4 How are infrastructure as a service managed?
+ANS Infrastructure as a service is managed in a similar way as an on premise infrastructure which provides an easy migration path for moving existing applications to the clouds. 
+	
+5 There are teams who can quickly set up and dismantle test and development environments? True/False.
+ANS True.
+	
+6 What is the best option if an organization wants to bring new applications to the market faster?
+ANS If an organization wants to bring new applications to the market faster infrastructure as a service is the best option.
+	
+7 What is the best way to do website hosting with infrastructure as a service?
+ANS The best way to do website hosting with infrastructure as a service an organization has to build a new virtual machine in the cloud with AWS or Azure platform.
+	
+8 What does an organization have to install to their virtual machine if they want to do website hosting with infrastructure as service?
+ANS An organization has to install apache, tomcat and host the web application on it if they want to do website hosting with infrastructure as service.
+	
+9 An organization might want to avoid the capital outlay and complexity of storage management? True/False.
+ANS True.
+
+10 Why should an organization might want to avoid the capital outlay and complexity of storage management?
+ANS An organization might want to avoid the capital outlay and complexity of storage management because it requires a lot of skilled staff to manage the data, meet the legal and compliant requirements.

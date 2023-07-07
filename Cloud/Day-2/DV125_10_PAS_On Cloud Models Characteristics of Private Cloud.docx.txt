@@ -1,0 +1,34 @@
+﻿DV125_10_PAS_On Cloud Models Characteristics of Private Cloud.
+
+
+
+
+Q1 What is a private cloud?
+ANS It is own and operated by individual enterprises.
+	
+Q2 What are the characteristics of a private cloud?
+ANS Ownership, public access, users, availability, connectivity, hardware, skills
+	
+Q3 What is ownership in a private cloud?
+ANS Owner and user of cloud are same where in public cloud owner is third party. Here in private cloud owner is company and user is also company bcz it is on premise.
+	
+Q4 What is the comparison between public cloud and private cloud?
+ANS private cloud owner is company and user is also company bcz it is on premise.
+	
+Q5 What is hardware in a private cloud?
+ANS Owner is responsible for purchase, maintain, upgrade, and management of cloud hardware
+	
+Q6 What are users in a private cloud?
+ANS User operate only one organization and cloud computing resources are use exclusively by single business or organization.
+	
+Q7 What is connectivity in a private cloud?
+ANS Connection in private cloud are typically made over private network (VPN, SSH) within LAN environment or remote access.
+	
+Q8 The connection to a private cloud is not available to the public? True/False.
+ANS True
+	
+Q9 What is public access in a private cloud?
+ANS Cannot access from public or internet environment. Only access from intranet (internal) company environment 
+	
+Q10 What are skills in a private cloud?
+ANS To build your cloud it will required deep technical knowledge bcz you have to maintain, setup, and manage your private cloud infrastructure.

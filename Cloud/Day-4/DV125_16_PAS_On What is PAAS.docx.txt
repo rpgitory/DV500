@@ -1,0 +1,34 @@
+﻿DV125_16_PAS_On What is PAAS.
+
+
+
+
+Q1 What are developers responsible for?
+ANS Building application and writing a code that works and perform well
+	
+Q2 What is the major roadblock that developers have?
+ANS Understanding of infrastructure where application will be hosted
+	
+Q3 What is an example of a roadblock that developers face?
+ANS Developer may not know what encryption is, and what backups are
+	
+Q4 What is PAAS Platform as a service?
+ANS It is a service and environment which ability to provide a building such a application.
+	
+Q5 Platform as a service provides an environment for building, testing, and deploying software applications? True/False.
+ANS True
+	
+Q6 What is the goal of PAAS Platform as a service?
+ANS Help create an application quickly as possible without having to a developer to worry about managing the infrastructure.
+	
+Q7 What is the benefit of using Platform as a service?
+ANS Do not have to installed OS, not even have to take care of windows updates or install the antivirus in the machine
+	
+Q8 PAAS platform as a service is a complete development and deployment environment in the cloud? True/False.
+ANS True
+	
+Q9 Where are the resources purchased from with Platform as a service PAAS?
+ANS From cloud service provider and pay as you go basis and access over secure internet connection
+	
+Q10 With Platform as a service, users/developers are responsible for the development of their own applications however they are not responsible for managing the server or underlying infrastructure. This allows the user, developer to focus on building the application or the workloads they want to run. True/False
+ANS True

@@ -1,0 +1,34 @@
+﻿DV125_7_PAS_On Cloud Models What is Public Cloud.
+
+
+
+
+Q1 How many types of cloud models are there?
+ANS public , hybrid, private 
+	
+Q2 What are public clouds?
+ANS It is own by cloud service provider which is also called as hosting provider ex: Google, Microsoft, Amazon
+	
+Q3 Services provided by cloud service providers users can save money because they are sharing resources and services with other cloud users over the internet? True/False.
+ANS True
+	
+Q4 When using the cloud services from cloud service providers who maintains the hardware if anything happens?
+ANS Cloud service provider
+	
+Q5 What are some examples of public cloud service providers?
+ANS Google Cloud Platform, Microsoft Azure, AWS
+	
+Q6 What are some examples of companies that use public clouds?
+ANS Netflix, hp, dell, twitter, linkedin, NASA and so on
+	
+Q7 Public clouds are used by both small and large companies? True/False.
+ANS True
+	
+Q8 When cloud users share computing resources to save cost it is called ________?
+ANS Multitency 
+	
+Q9 Is it easy to build the hardware compared to using the hardware provided in public clouds? True/False.
+ANS False
+	
+Q10 Why is it cheaper to use cloud service from cloud service providers like AWS?
+ANS Bcz you do not need anything like purchasing, managing, and maintaining the hardware and you can pay what you use.

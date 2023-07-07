@@ -1,0 +1,34 @@
+﻿DV125_8_PAS_On Cloud Models- Characteristics of Public Cloud.
+
+
+
+
+Q1 What are the characteristics of Public cloud?
+ANS Ownership, Multiple End users, Public Access, Availability, Connectivity, Skills
+	
+Q2 What is Ownership in the public cloud?
+ANS Resources that organization and end user uses such as storage, processing power, CPU, memory 
+	
+Q3 What are Multiple End Users in the public cloud?
+ANS Cloud provider make resources to multiple end user or multiple organization not for just your organization
+	
+Q4 What is public access in the public cloud?
+ANS Resources in the cloud provider location that can be access to the internet 
+	
+Q5 What is availability in the public cloud?
+ANS Cloud provider will ensure the data and availability 
+	
+Q6 What is connectivity in the public cloud?
+ANS Users and organization are typically connected with public could over the internet using web browser 
+	
+Q7 What are skills in the public cloud?
+ANS Public cloud do not required deep technical requirement to set up your organizations.
+	
+Q8 Public clouds do not require too much resources to run an organization? True/False.
+ANS True
+	
+Q9 What are the basic things users might need to access public clouds?
+ANS Laptop, mobile, tablet, internet 
+	
+Q10 The skills in the public clouds are managed by the cloud providers? True/False.
+ANS True

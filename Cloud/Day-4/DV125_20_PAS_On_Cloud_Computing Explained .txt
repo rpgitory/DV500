@@ -1,0 +1,32 @@
+﻿DV125_20_PAS on Cloud Computing ExplainedI
+
+Q1 What are the three layers of cloud computing? 
+A1 Infrastructure, platform, application
+	
+Q2 Where does cloud hosting live?
+A2 On anywhere in world (at cloud provider data centers )
+	
+Q3 What is hosting?
+A3 Taking time to setting up and quite keep money to keep running all the time.
+Hosting refers to the process of providing infrastructure, services, and resources for storing and delivering websites, applications, or other digital content over the internet. It involves allocating server space, bandwidth, and other resources to make content accessible online.
+	
+Q4 What is an advantage of cloud computing?
+A4 Highly availability, secure, no need to maintaining backups, hardware or cooling system.
+	
+Q5 How do you work with the cloud?
+A5 Working with the cloud typically involves using cloud-based services and resources to store, manage, and access data, applications, and infrastructure over the internet. This can include tasks such as uploading and retrieving files, running applications, configuring virtual machines, managing databases, and collaborating with others through cloud-based platforms and tools.
+	
+Q6 How can cloud hosting improve a business?
+A6 when need more computing power we can get instantly and when we done with it release it and back to the cloud.
+	
+Q7 What is cloud hosting?
+A7 Cloud hosting refers to the practice of hosting websites, applications, and other resources on virtual servers that are accessed over the internet. Instead of relying on a single physical server, cloud hosting utilizes a network of interconnected servers distributed across multiple data centers. This allows for scalability, flexibility, and high availability, as resources can be easily allocated or scaled up/down based on demand.
+	
+Q8 Why is cloud hosting better than  server hosting?
+A8 bcz in cloud hosting cloud provider will take care of automatic backup, disaster recovery plans, no need worry about scalability, upgradation so you can pay what you use. where in server hosting you are responsible for maintaining server, managing it, upgrading it, backups and all.
+	
+Q9 What is the key to cloud computing?
+A9 not to focus on hardware just focus on website.
+	
+Q10 What are the three reasons for the popularity of cloud computing? **
+A10 Scalability & Flexibility , Cost Efficient, and Accessibility and Collaboration.

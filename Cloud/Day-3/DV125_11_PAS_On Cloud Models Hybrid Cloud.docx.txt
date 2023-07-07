@@ -1,0 +1,34 @@
+﻿DV125_11_PAS_On Cloud Models Hybrid Cloud.
+
+
+
+
+Q1 What is a hybrid cloud?
+ANS Combination of private and public cloud 
+	
+Q2 What is an example of a hybrid cloud?
+ANS Hosting a website in public cloud and linking with highly secure database which hosted into private cloud
+	
+Q3 When are hybrid clouds useful?
+ANS It is useful bcz when organization that have something that they do not want to put in public cloud possibly so they can put in own private cloud
+	
+Q4 What would be an example of an organization not putting data into a public cloud for legal reasons?
+ANS Ex medical data that you don’t have to expose publicly 
+	
+Q5 What would be another reason an organization might want to use hybrid cloud?
+ANS A old software or old system you can run in locally and for further storage you can upload data in public cloud 
+	
+Q6 What is the best way to describe a hybrid cloud?
+ANS A hybrid cloud is a combination of public and private cloud environments that enables organizations to leverage the benefits of both, integrating and orchestrating on-premises infrastructure and cloud resources for a flexible and scalable computing environment.
+	
+Q7 What is the difference between hybrid cloud and public cloud?
+ANS Hybrid cloud can have some limited access which can only access by company or organization where public cloud can access by anyone from internet.
+	
+Q8 What is the difference between hybrid cloud and private cloud?
+ANS Private cloud is completely private means it must have some access within organization or you must be access from company intra network. Where in hybrid cloud some part can access from internet publicly.
+	
+Q9 What are some examples of public cloud providers?
+ANS Google, AWS, Microsoft Azure
+	
+Q10 When it comes to hybrid clouds, who maintains and operates hybrid clouds?
+ANS Some portion maintain by company itself and other part (public cloud) that will handle by cloud provider.

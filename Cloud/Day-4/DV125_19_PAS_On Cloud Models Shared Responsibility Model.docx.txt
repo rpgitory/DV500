@@ -1,0 +1,20 @@
+﻿DV125_19_PAS_On Cloud Models Shared Responsibility Model.
+
+
+
+
+Q1 How many types of cloud models are available?
+ANS 3 [ Infrastructure as a service, Platform as a service, Software as a service ]
+	
+Q2 With an on premises cloud model what does an organization/user manage and what is managed by a cloud service provider?
+ANS In an on-premises cloud model, the organization/user is responsible for managing the physical infrastructure, including servers, storage, networking equipment, and data centers. They have full control over the infrastructure and are responsible for its setup, maintenance, and security.
+One the other hand cloud service provider will take care of these all even automatic backup, redundancy, disaster recovery plans and all.
+	
+Q3 With infrastructure as a service cloud model what is managed by a cloud service provider and what is managed by an organization/user? 
+ANS Organization have to manage Application and it’s run time environment such as OS, upgrading OS, installing antivirus, backup data and everything expect infrastructure that provided by cloud service provider.
+	
+Q4 With Platform as a service cloud model what is managed by a cloud service provider and what is managed by an organization/user?
+ANS Organization will only need to managed application no need to worry about run time environment such as OS (installing, upgrading, antivirus, backup)
+	
+Q5 With software as a service cloud model what does an organization/user manage and what is managed by a cloud service provider?
+ANS Organization just need to manage their username & password and application data, settings configuration and so on.

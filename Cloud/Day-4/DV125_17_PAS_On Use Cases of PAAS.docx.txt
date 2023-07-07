@@ -1,0 +1,34 @@
+﻿DV125_17_PAS_On Use Cases of PAAS.
+
+
+
+
+Q1 What is PAAS Platform as a service?
+ANS It is a hosting model which provide a bare mantle machine (with installed OS), you will be provided a platform on which you need to build something for the end user
+	
+Q2 What is PAAS referred to as _______________? **
+ANS Serverless architecture 
+	
+Q3 What are some popular platforms as a service?
+ANS DBMS,
+	
+Q4 What is the benefit of using DBMS with PAAS? **
+ANS Do not have to manage database bcz inbuilt monitoring and automatic backups 
+	
+Q5 What are other benefits of DBMS?
+ANS Minimal intervention required for optimizing your queries 
+	
+Q6 What are some examples of DBMS minimal intervention required for optimizing user queries?
+ANS Azure SQL, AWS RDS, Google cloud and clouds pattern are also under DBMS in Paas
+	
+Q7 What is web application hosting?
+ANS PaaS offers a platform for developers to build, deploy, and manage their applications without having to worry about the underlying infrastructure. With web application hosting in PaaS, developers can focus on developing their application code and rely on the PaaS provider to handle tasks such as server provisioning, scalability, and maintenance. The PaaS provider takes care of the infrastructure and platform components required to host the web application, allowing developers to focus on their application logic and functionality. (Paas will provide run time environment for web application and also get an storage where you can host your files via FTP,exInbuilt application monitoring,  error logging, no run time management, and the patching is also run automatically )
+	
+Q8 What are some examples of web application hosting?
+ANS Azure Web apps, Elastic Beans Stalk, and google app engin 
+	
+Q9 What are some examples of Container services? **
+ANS Docker, Azure container services, amazon elastic container services, google container services, and google kubernetes engin.
+	
+Q10 What are some examples of Big Data services? **
+ANS Azure data link (HDFS insider), Amazon Redshift elastic map reduce, google table and big query.
