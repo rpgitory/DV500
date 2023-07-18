@@ -1,0 +1,32 @@
+﻿DV125_25_PAS_On Cloud Computing Services Models
+
+
+Q1 What are the basics of cloud computing?
+A1 the advancement of technology encompassing networks, storage, processing power led to epitome of computing
+	
+Q2 What is cloud computing?
+A2 it is a paradigm that allow on demand network access to shared computing resources.
+	
+Q3 What are some characteristics of cloud computing?
+A3 on demand services, you use it when you need it
+	
+Q4 What are the three delivery  models of cloud computing?
+A4 Iaas, Paas, Saas
+	
+Q5 What is SAAS?
+A5 software as a service
+	
+Q6 How is SAAS accessible?
+A6 via internet and need some authentication 
+
+Q7 Who uses SAAS and examples of products of SAAS?
+A7 gmail, msoffice365, google docs
+	
+Q8 What are the pros and cons of SAAS
+A8 easy to use, no need to maintain updates and backup stuff. CONS Portability and browser issues, internet performance may dictate overall performance, compliance restrictions.
+	
+Q9 What is PAAS and what are some PROS and CONS of PAAS?
+A9 it provides run time environment for user where user can directly work on their task and no worry about OS, antivirus, backups, updating OS and all. CONS developers are limited to the provider languages and tools, migration issue
+	
+Q10 What is IAAS and what are some PROS and CONS of IAAS?
+A10 Infrastructure already built by cloud provider so user can directly deploy their web servers in cloud as they want, they can manage web services, network connection configurations, scalable, flexible, CONS security issue, network and services delayed.

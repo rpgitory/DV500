@@ -1,0 +1,39 @@
+﻿Introduction to the AWS (Amazon Web Services)
+
+
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+How AWS Works | AWS Tutorial for Beginners By Linux Academy
+https://www.youtube.com/watch?v=qcY-uiEHhn0
+	
+Q1 What is amazon web service?
+Ans Amazon web service is a subsidiary of amazon which provides on demanding cloud computing platforms to individuals, companies and governments, on a paid subscriptions basis with free-tier options available for 12 months.
+	
+Q2 Amazon Web Service is also known as?
+Ans AWS
+	
+Q3 What things are offered by AWS?
+Ans AWS offers a comprehensive suite of cloud computing services, including compute, storage, databases, networking, security, AI/ML, analytics, IoT, DevOps, and more.
+	
+Q4 How you connect with the cloud?
+Ans through internet 
+	
+Q5 What are the common personal uses of the cloud service?
+Ans backuping, file sharing, 
+	
+Q6 What do you mean by fault tolerant?
+Ans if any hardware or software failure even though user can access their data. 
+	
+Q7 Why an Enterprises use cloud service?
+Ans easy to build up and no maintenance required, no management staff needed, availability and scalability and many more benefits.
+	
+Q8 What the term elasticity means?
+Ans means when server need more resources it automatically get it and when it done it will release it without any human interaction.
+	
+Q9 Difference between cloud and AWS. 
+Ans cloud is a computer which is located somewhere else and you can utilize via internet where aws is cloud service provider.
+	
+Q10 What are main cloud terms?
+Ans simple computer which can access from internet anywhere in world.

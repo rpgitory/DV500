@@ -1,0 +1,22 @@
+﻿VPC
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How to create NAT gateway?
+
+
+How do I create NAT gateway
+https://www.youtube.com/watch?v=N_M1EjnDzh0
+
+
+1 Expand NAT in NAT gateways 
+Ans. NAT stands for Network Address Translation. In the context of NAT Gateways in AWS, NAT refers to the process of translating IP addresses between private and public networks. NAT Gateways facilitate outbound internet connectivity for instances in private subnets of a Virtual Private Cloud (VPC) by performing network address translation.
+	
+2 How to create NAT gateway?
+Ans. go to left panel dash board then click to NAT gateways and click to create a NAT gateways then select public server subnet then click on auto assign elastic ip (EIP). after that add NAT in route tables

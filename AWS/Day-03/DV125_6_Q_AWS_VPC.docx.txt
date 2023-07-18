@@ -1,0 +1,32 @@
+﻿VPC
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+
+
+What are security groups?
+
+
+How do I create Security Groups
+https://www.youtube.com/watch?v=nA3yN76cNxo
+
+
+1 What are security groups?
+Ans. It is fundamental of network security in AWS. it allows the how network traffic into or out of our E2C Machine.
+
+2 What are inbound rules?
+Ans. Network traffic which coming from internet to E2C server is called as inbound traffic.
+	
+3 What are outbound rules?
+Ans. network traffic going from E2C to coming to internet is outbound traffic.
+	
+4 How to create security groups?
+Ans. left side dash board click on network and security tab then click on create security groups

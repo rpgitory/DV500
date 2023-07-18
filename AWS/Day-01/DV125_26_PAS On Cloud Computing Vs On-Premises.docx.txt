@@ -1,0 +1,33 @@
+﻿DV125_26_PAS On Cloud Computing Vs On-Premises
+
+
+Q1 What is on-premise computing?
+A1  is type of commuting in which all the computing resources are accessed and managed by from the premises
+	
+Q2 How is cloud computing accessed?
+A2 the pool of resources is accessed online.
+	
+Q3 What is the cost of owning on premise computing?
+A3 it incurred by the premise that owns it; this translates to diminished return in the long term. 
+	
+Q4 What is the cost of using cloud computing?
+A4 reliable, pay as you use
+	
+Q5 What are some of the advantages of cloud computing?
+A5 universal access, platform independent, access over internet, more storage, easy and quick set up, automatic updates
+	
+Q6 What are some disadvantages of cloud computing?
+A6 security risk, malware, eavesdropping can be experienced, privacy issue, lost of control, internet reliance
+	
+Q7 Should companies move their data and infrastructure to the cloud or keep it on premise?
+A7 By advancement of the internet and increased network bandwidth, businesses can take advantage of it.
+	
+Q8 How is cloud computing more beneficial than on premises?
+A8 access anywhere, multiple backups and 99% redundancy, no worry abouts updates 
+	
+Q9 What is the disadvantage of on premise computing?
+A9 need skill staff, maintaining, managed, Upfront cost needed
+	
+Q10 What is one difference between on premise and cloud computing? **
+A10 One key difference between on-premise and cloud computing is the ownership and management of infrastructure, where on-premise computing involves organizations maintaining their own hardware and software infrastructure, while in cloud computing, the infrastructure is owned and managed by a third-party cloud service provider.
+	________________

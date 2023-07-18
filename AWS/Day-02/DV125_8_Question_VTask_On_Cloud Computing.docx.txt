@@ -1,0 +1,65 @@
+﻿Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Cloud Wars: Amazon (AWS) vs. Google (GCP) vs. Microsoft (Azure) by CBT Nuggets
+https://www.youtube.com/watch?v=342KEaxFVjM
+	
+Q1 How you build a cloud presence in Amazon AWS?
+Ans To build a cloud presence in Amazon AWS, you need to plan, set up an account, launch virtual servers, configure networking, manage storage, secure your environment, deploy applications, set up databases, monitor and scale resources, implement backup and disaster recovery strategies, and optimize costs.
+	
+Q2 What are the core principle you can run into AWS ?
+Ans The core principles of AWS are agility, scalability, reliability, security, cost optimization, performance efficiency, and operational excellence.
+	
+Q3 What are the AWS services?
+Ans Compute Services: Amazon EC2, AWS Lambda, AWS Batch, AWS Elastic Beanstalk, AWS Fargate, etc.
+Storage Services: Amazon S3, Amazon EBS, Amazon EFS, Amazon Glacier, AWS Storage Gateway, etc.
+Database Services: Amazon RDS, Amazon DynamoDB, Amazon Aurora, Amazon Redshift, Amazon DocumentDB, etc.
+Networking Services: Amazon VPC, Amazon Route 53, AWS Direct Connect, AWS Global Accelerator, AWS App Mesh, etc.
+Security and Identity Services: AWS IAM, AWS Cognito, AWS Secrets Manager, AWS Directory Service, AWS Shield, etc.
+Analytics Services: Amazon Athena, Amazon Redshift, Amazon EMR, AWS Glue, Amazon Kinesis, AWS Data Pipeline, etc.
+AI and Machine Learning Services: Amazon SageMaker, Amazon Rekognition, Amazon Polly, Amazon Lex, AWS DeepLens, etc.
+DevOps Tools: AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS CodeStar, AWS CloudFormation, AWS X-Ray, etc.
+Management and Governance Services: AWS CloudWatch, AWS CloudTrail, AWS Config, AWS Systems Manager, AWS Trusted Advisor, etc.
+Internet of Things (IoT) Services: AWS IoT Core, AWS IoT Greengrass, AWS IoT Analytics, AWS IoT Device Management, etc.
+Media Services: Amazon CloudFront, Amazon Elastic Transcoder, AWS Elemental MediaConvert, AWS Elemental MediaLive, etc.
+Migration Services: AWS Server igration Service, AWS Database Migration Service, AWS Application Discovery Service, etc.
+Blockchain Services: Amazon Managed Blockchain, AWS Blockchain Templates, etc.
+Customer Engagement Services: Amazon Simple Email Service (SES), Amazon Pinpoint, AWS Chatbot, etc.
+Enterprise Applications: Amazon WorkSpaces, Amazon WorkDocs, Amazon WorkMail, etc.
+	
+Q4 What is the major service in AWS?
+Ans AWS include Amazon EC2 (Elastic Compute Cloud) for virtual servers, Amazon S3 (Simple Storage Service) for object storage, Amazon RDS (Relational Database Service) for managed databases, AWS Lambda for serverless computing, and Amazon VPC (Virtual Private Cloud) for networking. These services form the foundation of many applications and solutions built on AWS.
+	
+Q5 EBS stands for?
+Ans EBS stands for Elastic Block Store. It is a scalable block storage service provided by Amazon Web Services (AWS) that allows you to create and attach persistent block storage volumes to Amazon EC2 instances. EBS volumes provide durable and highly available storage for your EC2 instances, allowing you to store data persistently even after the instance is terminated.
+	
+Q6 What are the MS Azure products?
+Ans Compute: Azure Virtual Machines, Azure Functions, Azure Container Instances, Azure Kubernetes Service (AKS), etc.
+Storage: Azure Blob Storage, Azure Files, Azure Data Lake Storage, Azure Disk Storage, Azure Backup, etc.
+Databases: Azure SQL Database, Azure Cosmos DB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Cache for Redis, etc.
+Networking: Azure Virtual Network, Azure Load Balancer, Azure Application Gateway, Azure VPN Gateway, Azure ExpressRoute, etc.
+Security and Identity: Azure Active Directory, Azure Key Vault, Azure Security Center, Azure Sentinel, Azure Information Protection, etc.
+Analytics: Azure Synapse Analytics, Azure Data Factory, Azure Databricks, Azure HDInsight, Azure Stream Analytics, etc.
+AI and Machine Learning: Azure Machine Learning, Azure Cognitive Services, Azure Bot Service, Azure Custom Vision, Azure Speech Services, etc.
+DevOps: Azure DevOps, Azure DevTest Labs, Azure Artifacts, Azure Container Registry, Azure Monitor, etc.
+Management and Governance: Azure Monitor, Azure Advisor, Azure Policy, Azure Automation, Azure Resource Manager, etc.
+Internet of Things (IoT): Azure IoT Hub, Azure IoT Central, Azure Sphere, Azure Digital Twins, Azure Time Series Insights, etc.
+Blockchain: Azure Blockchain Service, Azure Blockchain Workbench, Ethereum Consortium Network, Corda Enterprise Network, etc.
+Migration: Azure Migrate, Azure Site Recovery, Azure Database Migration Service, Azure Data Box, etc.
+Developer Tools: Azure App Service, Azure Functions, Visual Studio Team Services, Azure Logic Apps, Azure API Management, etc.
+Hybrid Integration: Azure Logic Apps, Azure Service Bus, Azure Event Grid, Azure API Management, etc.
+Mobile and Web Apps: Azure App Service, Azure Functions, Azure Notification Hubs, Azure SignalR Service, etc.
+	
+Q7 What includes in google infrastructure?
+Ans data centers, networking, servers and hardware, storage system, software infrastructure, security and privacy, energy efficient and sustainability, and edge computing.
+	
+Q8 What are the Google Cloud Platform?
+Ans Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google. It provides a wide range of infrastructure and platform services to help organizations build, deploy, and scale their applications and services in the cloud.
+	
+Q9 Full form of Azure VMs.
+Ans Azure Virtual Machines is a service provided by Microsoft Azure that allows users to deploy and manage virtual machines in the cloud. It enables users to create and run virtual machines with different operating systems and software configurations, providing flexibility and scalability for various computing workloads.
+	
+Q10 Briefly explain the cloud computing v/s traditional design.
+Ans traditional design need up-front cost, IT staff to manage servers, own security infrastructure, cooling system, backup and disaster recovery plans, max server capability, and it is hard to scalable horizontally where cloud computing do need up-front cost, no need IT staff to manage servers and all, no security problems, no worry about availability and fault tolerance, anytime scalable as you need, pay as you use. 

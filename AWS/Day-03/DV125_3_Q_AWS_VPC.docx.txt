@@ -1,0 +1,39 @@
+﻿VPC
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+How do I create Public and Private Subnets
+https://www.youtube.com/watch?v=4T9G9nv0GIk
+
+
+1 What is VPC?
+Ans. VPC stands for Virtual Private Cloud. It is a virtual network environment provided by Amazon Web Services (AWS) that enables you to launch AWS resources, such as virtual machines (EC2 instances), databases, and load balancers, in a logically isolated section of the AWS cloud.
+	
+2 VPC stands for?
+Ans. Virtual Private Cloud
+	
+3 How to create VPC?
+Ans. find VPC in dashboard then then click on start VPC (amazon provides a default VPC if you want to use ) or click on create VPC and type name and CIDR block and tendency (default or dedicated choose any you want)
+	
+4 How to create public/private subnets?
+Ans. find subnet in left panel and then click on create a subnet then fill out the details such as subnet name, VPC (select which you created), availability zone, CIDR block.
+	
+5 How to create internet gateways?
+Ans. go in left panel and find internet gateway then click on internet gateway then type name of internet gateway tag.
+	
+6 How to attach internet gateways to VPC?
+Ans. remember we can only one attached internet gateway with VPC (for attaching internet gateway click on action then click on attached to VPC then select a VPC internet gateway name tag.)
+	
+7 How to create public/private route table?
+Ans. left panel select a public route table, then provide a name of public route table and select a VPC name.
+	
+8 How to create EC2 instances for private/public subnets?
+Ans. go to running instances then click to launch instance then select one instance then fill the details and select right VPC and subnets, then add tag with name (put public for public or whatever you want) : for private use private VPC and private subnets.

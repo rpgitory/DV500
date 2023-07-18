@@ -1,0 +1,45 @@
+﻿VPC
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+What is route table?
+
+
+How do I create Route Table
+https://www.youtube.com/watch?v=GrfOsWUVCfg
+
+
+1 What is route table?
+Ans. A route table contains set of rules called routes that are used to determined where the network traffic is directed
+	
+2 How to create route table?
+Ans. left panel click on create route table. Then set VPC 
+	
+3 How to delete route table?
+Ans. go to delete route table then select it and delete
+	
+4 How to create internet gateways?
+Ans. go in left panel and find internet gateway then click on internet gateway then type name of internet gateway tag.
+	
+5 What are internet gateways?
+Ans. (IGW): An Internet Gateway is an horizontally scaled, highly available gateway that allows communication between instances within your VPC and the internet. It serves as the entry and exit point for internet traffic in your VPC. When associated with a subnet in a VPC, the subnet becomes a public subnet, and instances within that subnet can have public IP addresses and can communicate directly with the internet.
+	
+6 How to attach internet gateways to VPC?
+Ans. remember we can only one attached internet gateway with VPC (for attaching internet gateway click on action then click on attached to VPC then select a VPC internet gateway name tag.)
+	
+7 How to detach internet gateways to VPC?
+Ans. select a internet gateway and then click to detached it.
+	
+8 What are the route table rules and details you need to know?
+Ans. if internet gateway is not attached then route table will throw all traffic to blackhole means it’s going nowhere.
+1 unlike IGW you can have multiple active route table. 
+2 you cannot delete route table if it has dependency.
+	
+9 Is your “default” VPC already has a “main” route table?
+Ans. Yes

@@ -1,0 +1,45 @@
+﻿VPC
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+What is VPC?
+
+
+How do I Create VPC
+https://www.youtube.com/watch?v=2TiBt-y5pAQ
+
+
+1 What is the first thing you need to do to create a VPC?
+Ans. select a region where we want to create VPC
+	
+2 What does VPC stand for?
+Ans. virtual private cloud
+	
+3 How to create VPC?
+Ans. First select a region then create a VPC then fill the details such as name, Ipv4 CIDR block,
+	
+4 How to create internet gateways?
+Ans. go in left panel and find internet gateway then click on internet gateway then type name of internet gateway tag
+	
+5 How to attach internet gateways to VPC?
+Ans. remember we can only one attached internet gateway with VPC (for attaching internet gateway click on action then click on attached to VPC then select a VPC internet gateway name tag.)
+	
+6 How to create subnets?
+Ans. go in left panel (Dashboard) then click on subnet then provide subnet name, select a VPC name tage that you just created, then select a availability zone (if possible always select a first available zone in which region you selected ) then provide Ipv4 block.
+	
+7 How to start auto modify auto-assign IP settings?
+Ans go to subnet then go to action tab, the click on modify auto design IP settings, click on auto ipv4 checkbox and save it.
+	
+8 How to create a public/private route table?
+Ans. left panel select a public route table, then provide a name of public route table and select a VPC name 
+	
+9 How to attach a public/private subnet to a route table?
+Ans. left panel click on route table then select a router table then below horizontal bar click on subnet association then edit subnet association then select a subnet that you want to attached with router table.

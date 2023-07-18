@@ -1,0 +1,42 @@
+﻿Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+What is AWS? – By Amazon Web Services
+https://www.youtube.com/watch?v=mZ5H8sn_2ZI
+Q1 What is Amazon Web Service?
+Ans Amazon web service is a subsidiary of amazon which provides on demanding cloud computing platforms to individuals, companies and governments, on a paid subscriptions basis with free-tier options available for 12 months. 
+	
+Q2 What does AWS do?
+Ans AWS, or Amazon Web Services, is a cloud computing platform that offers a wide range of services such as computing power, storage, databases, analytics, and more. It allows businesses and individuals to access these services on-demand over the internet. AWS provides scalable and flexible infrastructure to build, deploy, and manage applications and services without the need for physical hardware. It is widely used for its reliability, security, and cost-effectiveness in running various workloads and supporting digital transformation initiatives.
+	
+Q3 What are the features of AWS?
+Ans scalability, elasticity 
+	
+Q4 What are the tools in AWS?
+Ans EC2 Service, RDS, VPC, Route 53, Load Balancer
+	
+Q5 What programming languages are used in AWS?
+Ans Python: Boto3 (AWS SDK for Python)
+JavaScript/Node.js: AWS SDK for JavaScript (AWS SDK for Node.js or AWS SDK for JavaScript in Node.js)
+Ruby: AWS SDK for Ruby (AWS SDK for Ruby or AWS SDK for Ruby - Version 3)
+Go: AWS SDK for Go (AWS SDK for Go or AWS SDK for GoLang)
+Swift: AWS SDK for Swift (AWS SDK for Swift or AWS SDK for Swift - Soto)
+PowerShell: AWS Tools for PowerShell (AWS Tools for PowerShell or AWS Tools for Windows PowerShell)
+Java: AWS SDK for Java (AWS SDK for Java or AWS Java SDK)
+	
+Q6 What are benefits of AWS?
+Ans global availability, affording cost
+	
+Q7 How can you use Amazon web service?
+Ans creating account and purchasing subscription or by selecting 12 months free services subscription for trial purpose
+	
+Q8 When you building applications for colleagues or consumer or for enterprise support What you can find with Amazon Web Services?
+Ans computer & storage services, database services, networking and content delivery, security and identity access management, analytics and machine learning, application integration, management and monitoring, developer tools, enterprise support.
+	
+Q9 When you build your database driven application what things are important?
+Ans database design, data security, scalability and performance, data integrity and validation, query optimization, error handeling and logging, backup and recovery, data access layer, data migration and versioing, compliance and regulation.
+	
+Q10 How it can be easy to work with the data?
+Ans AWS simplifies working with data through managed databases, scalable storage services, data analytics capabilities, seamless data transfer and migration options, integration services, real-time processing capabilities, data governance and security measures, serverless data processing, AI and machine learning services, and data visualization tools. These features enable organizations to efficiently store, analyze, integrate, transfer, and visualize their data, making data-related tasks more manageable and streamlined.

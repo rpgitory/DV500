@@ -1,0 +1,60 @@
+﻿VPC
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+What to create internet gateways?
+ 
+How do I create Internet gateway
+https://www.youtube.com/watch?v=tD9vDv0uyI8
+
+
+1 What is VPC?
+Ans. VPC stands for Virtual Private Cloud. It is a virtual network environment provided by Amazon Web Services (AWS) that enables you to launch AWS resources, such as virtual machines (EC2 instances), databases, and load balancers, in a logically isolated section of the AWS cloud.
+	
+2 VPC stands for?
+Ans. Virtual Private Cloud 
+	
+3 How to create VPC?
+Ans. find VPC in dashboard then then click on start VPC (amazon provides a default VPC if you want to use ) or click on create VPC and type name and CIDR block and tendency (default or dedicated choose any you want)
+	
+4 How calculate IP address range?
+Ans. if ip address is 10.0.0.0/26 then start would be 10.0.0.0 and to find how many ip address are there so calculate with (2^32 - 26 = 2^6) so 64 ip address END= 10.0.0.63
+	
+5 How to create subnets?
+Ans. find subnet in left panel and then click on create a subnet then fill out the details such as subnet name, VPC (select which you created), availability zone, CIDR block.
+	
+6 How to create public/private route table?
+Ans. left panel select a public route table, then provide a name of public route table and select a VPC name .
+	
+7 How to create internet gateways?
+Ans. go in left panel and find internet gateway then click on internet gateway then type name of internet gateway tag.
+	
+8 What are internet gateways?
+Ans. (IGW): An Internet Gateway is an horizontally scaled, highly available gateway that allows communication between instances within your VPC and the internet. It serves as the entry and exit point for internet traffic in your VPC. When associated with a subnet in a VPC, the subnet becomes a public subnet, and instances within that subnet can have public IP addresses and can communicate directly with the internet.
+	
+9 How to attach internet gateways to VPC?
+Ans. remember we can only one attached internet gateway with VPC (for attaching internet gateway click on action then click on attached to VPC then select a VPC internet gateway name tag.)
+	
+10 How to create NAT gateways?
+Ans. click on left side Create a NAT Gateways then select a subnet then allocate a IP address.
+	
+11 In which subnet you need to keep NAT gateways always?
+Ans. with public subnets 
+	
+12 What is the use of NAT gateways?
+Ans. It is used to provide internet access to instances in private subnets within a VPC. Instances in private subnets do not have direct internet connectivity, so outgoing traffic from these instances needs to be translated (NAT) before being sent to the internet. NAT Gateway allows instances in private subnets to access the internet while keeping them hidden from inbound internet traffic.
+	
+13 NAT gateway stands for
+Ans. Network Address Translation 
+	
+14 How to start auto modify auto-assign IP setting?
+Ans. go to subnet then go to action tab, the click on modify auto design IP settings, click on auto ipv4 checkbox and save it.
+	
+15 How to attach public/private subnet to route table?
+Ans. left panel select a public route table, then provide a name of public route table and select a VPC name.
