@@ -1,7 +1,9 @@
 #!/bin/bash
 #User
 
-MONGODB_SERVER_IP_ADDRESS=
+MONGODB_SERVER_IP_ADDRESS="18.207.225.191"
+REDIS_SERVER_IP="44.204.188.12"
+
 
 curl -sL https://rpm.nodesource.com/setup_lts.x | bash
 yum install nodejs -y
@@ -19,14 +21,21 @@ Description = User Service
 [Service]
 User=roboshop
 Environment=MONGO=true
-Environment=REDIS_HOST=<REDIS-SERVER-IP>
-Environment=MONGO_URL="mongodb://$MONGODB_SERVER_IP_ADDRESS:27017/users"
+Environment=REDIS_HOST=REDIS_SERVER_IP
+Environment=MONGO_URL="mongodb://MONGODB_SERVER_IP_ADDRESS:27017/users"
 ExecStart=/bin/node /app/server.js
 SyslogIdentifier=user
 
 [Install]
 WantedBy=multi-user.target
 ' > /etc/systemd/system/user.service
+
+
+sed -i "s/MONGODB_SERVER_IP_ADDRESS/$MONGODB_SERVER_IP_ADDRESS/" /etc/systemd/system/user.service
+
+sed -i "s/REDIS_SERVER_IP/$REDIS_SERVER_IP/" /etc/systemd/system/user.service
+
+
 
 systemctl daemon-reload
 systemctl enable user
