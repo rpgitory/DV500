@@ -1,0 +1,46 @@
+#!/bin/bash 
+#Payment
+
+CART_SERVER_IPADDRESS=
+USER_SERVER_IPADDRESS=
+RABBITMQ_SERVER_IPADDRESS=
+
+
+yum install python36 gcc python3-devel -y
+
+useradd roboshop
+mkdir /app
+curl -L -o /tmp/payment.zip https://roboshop-artifacts.s3.amazonaws.com/payment.zip
+cd /app
+unzip /tmp/payment.zip
+
+cd /app
+pip3.6 install -r requirements.txt
+
+
+echo '[Unit]
+Description=Payment Service
+
+[Service]
+User=root
+WorkingDirectory=/app
+Environment=CART_HOST=$CART_SERVER_IPADDRESS
+Environment=CART_PORT=8080
+Environment=USER_HOST=$USER_SERVER_IPADDRESS
+Environment=USER_PORT=8080
+Environment=AMQP_HOST=$RABBITMQ_SERVER_IPADDRESS
+Environment=AMQP_USER=roboshop
+Environment=AMQP_PASS=roboshop123
+
+ExecStart=/usr/local/bin/uwsgi --ini payment.ini
+ExecStop=/bin/kill -9 $MAINPID
+SyslogIdentifier=payment
+
+[Install]
+WantedBy=multi-user.target
+' > /etc/systemd/system/payment.service
+
+systemctl daemon-reload
+
+systemctl enable payment
+systemctl start payment
