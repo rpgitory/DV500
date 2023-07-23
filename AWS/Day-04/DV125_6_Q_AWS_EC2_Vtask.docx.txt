@@ -1,0 +1,46 @@
+﻿EC2 
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How do I create elastic load balancer?
+
+
+
+
+How do I create Elastic Load Balancer
+https://www.youtube.com/watch?v=WLu41jAYjYk
+
+
+1 What is Application load balancer?
+Ans. Application load balancing is responsible for transferring traffic in  between multiple servers or services 
+	
+2 How to create EC2 instances?
+Ans. Go into services and then go to EC2 then click on launch instance then choose a OS 
+	
+3 What is the purpose of bellow commands in user data while  you are creating instances?
+Yum install httpd –y
+Systemctl enable httpd
+Mkdir/var/www/html/orders/
+Echo “<h1>this is orders app</h1>” > /var/www/html/orders/index.html
+Systemctl start httpd
+Ans. install apache https server then enable a services and then it create a directory in /var/www/html/orders/ then write a one index.html file with including content “this is orders app” and then finally it starts apache http service.
+	
+4 How to create target groups?
+Ans. left panel create target groups then put group name, set target type (instance, ip, launch function), select VPC, set path then create it.
+	
+5 How to register target?
+Ans. go to below targets then click on edit then select orders or whatever target instance name then click to register target.
+	
+6 How to create load balancer?
+Ans. go to left panel and create load balancer and create ALB (application load balancer) then fill out details such as name of ALB, scheme, set availability zones, set configure routing, set target group
+	
+7 How to edit rules in load balancer?
+Ans. open rules which is right below, click there and if want to add then click on ‘+’ sign in top beside rule then insert rule then set path and where does it forwards to.

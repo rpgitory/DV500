@@ -1,0 +1,42 @@
+﻿EC2
+
+
+ 
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+
+
+How do I launch & SSH ec2 Linux instance?
+
+
+
+
+How do I Launch & SSH EC2 Linux Instance
+https://www.youtube.com/watch?v=Nv_1u8gCkIQ
+
+
+1 How to create EC2 instances?
+Ans. Go into services and then go to E2C then click on launch instance then choose a OS 
+	
+2 What is key pair?
+Ans. key pair is a way to connecting or pairing (client-server) in encrypted form so no one can intercept inbetween it. 
+	
+3 How to SSH into a Linux EC2 instance?
+Ans. type ssh -i ssh_key.pem ec2-user@Ip_address 
+	
+4 How do author use cd command in above or given video?
+Ans. to move to directory 
+	
+5 What is the use of ls command?
+Ans. List Directories in current directory 
+	
+6 For What author use chmod 400 testssh.pem command in given video?
+Ans. to edit user permission on testssh.pem (400 is owner=read, group=execute, other=execute )
+	
+7 What is the use of ssh –i “testssh.pem”ec2-user@ec2-52-88-19-15.us-west-2.compute.amazonaws.com in given video?
+Ans. To verify and connect to AWS server.

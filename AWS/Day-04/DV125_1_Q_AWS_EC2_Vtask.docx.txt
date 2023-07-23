@@ -1,0 +1,34 @@
+﻿EC2 
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+
+
+How to launch & RDP EC2 windows instance?
+
+
+
+
+How do I Launch & RDP EC2 Windows Instance
+https://www.youtube.com/watch?v=WvC-awKkrF8
+
+
+1 How to create EC2 instances?
+Ans. Go into services and then go to E2C then click on launch instance then choose a OS 
+	
+2 What is key pair?
+Ans. key pair is a way to connecting or pairing (client-server) in encrypted form so no one can intercept inbetween it. 
+	
+3 How do we connect to AWS EC2 windows server instance?
+Ans. Right click on instance and click connect then go to RDP client so there you can see username and passwd 
+	
+4 What is remote desktop file?
+Ans. it is windows remote connection software which can communicate with server.

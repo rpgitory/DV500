@@ -1,0 +1,35 @@
+﻿EC2 
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How do I custom AMI from existing instance?
+
+
+
+
+How do I Custom AMI from Existing Instance
+https://www.youtube.com/watch?v=IcarjsdxDcY
+
+
+1 How to create EC2 instances?
+Ans. Go into services and then go to EC2 then click on launch instance then choose a OS 
+	
+2 How to create image of an instance?
+Ans. select instance then go to action and click on create image then fill out details 
+	
+3 How do we launch any instances from the image?
+Ans. select image and go to action and click on launch instance 
+	
+4 How you can edit image?
+Ans. go to image then go to permission and click on edit.
+	
+5 AMI stands for?
+Ans. amazon machine image
