@@ -1,0 +1,25 @@
+﻿S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How do I create S3 Encryption in AWS
+https://youtu.be/NKXPSNmSito
+
+
+
+
+Q1 WHAT ARE THE DIFFERENT KEY METHODS FOR S3 ENCRYPTION IN AWS?
+ANS Encryption in rest and Encryption at transit in Encryption in rest there are three different methods (Server side encryption using S3 managed keys, Server side encryption using EMS managed keys, and servside encryption using custom managed keys)
+	
+
+Q2 How we can enable default encryption on an Amazon S3 buckets?
+ANS by selecting S3 managed keys encryption while creating S3 bucket.
+
+Q3 How we can enable server side encryption using an AWS KMS CMK?
+ANS Go to console and go to IAM then go to encryption keys then create new keys, add user, choose user permission  then finished. For enabling KMS managed keys fo to S3 bucket select KMS managed keys and choose this new key which you just created.
+ 
+For configuring CMK (Custom managed key) you need to use Command line instead of console (website frontend). Ex copy image into another bucket using CMK, aws s3  cp image.jpeg s3://bucket_name --sse-c-key “past here your key” --sse-c AES256(enytpion_type) --profile profile_name

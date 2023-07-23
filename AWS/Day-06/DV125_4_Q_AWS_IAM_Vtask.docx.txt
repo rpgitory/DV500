@@ -1,0 +1,36 @@
+﻿IAM
+
+
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How to create IAM policies?
+
+
+ 
+How do I create IAM Policy and Permission
+https://www.youtube.com/watch?v=9n28d8ezrLQ
+
+
+1 IAM stands for?
+Ans. Identity and access management.
+	
+2 How to create IAM policy?
+Ans. Go to services and clikc on IAM and click to create policy then choose service area, select action, allow resources and so on.
+	
+3 How to create roles?
+Ans. Go to role then click on create role, assign a services or service for role, select permission that you want to give to role.
+	
+4 What are IAM roles?
+Ans. Those are user which has some permission which is set by organization or admin so that particular user can have some limited access to services or whatever task it assigned.
+	
+5 What are IAM policies?
+Ans. These are set of rules which is provided to particular user or role to perform a certain task and cannot perform a task which is not assigned to him.

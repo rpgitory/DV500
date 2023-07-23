@@ -1,0 +1,27 @@
+﻿IAM
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+
+
+How do I create IAM groups?
+
+
+ 
+How do I Create and Configure IAM group
+https://www.youtube.com/watch?v=tOUx4cezQj4
+
+
+1 How to create IAM groups?
+Ans. Go to user then add user, then enter User name, choose access type, enter console password,choose permission. 
+	
+2 How to attach policy? 
+Ans. create group name and click on policy which you want to attached to group.

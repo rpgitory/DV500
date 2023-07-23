@@ -1,0 +1,19 @@
+﻿S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How do I create S3 Object Replication?
+https://youtu.be/iIlb31s6Du0
+
+
+
+
+Q1 WHAT IS REPLICATING OBJECTS IN AWS HOW ITS USEFUL?
+ANS Replicating objects in AWS involves copying data from one AWS region or bucket to another. It is useful for data redundancy, disaster recovery, low latency access, compliance, load balancing, content distribution, data migration, cross-region collaboration, and multi-region disaster recovery. It ensures high availability, improves data access, and provides data resilience across different geographical locations.
+	
+Q2 How to setup cross-region replication in aws?
+ANS Go to management tab then click to replication, then add all content and status Enable and click replicate any encrypted object in AWS, select destination bucket, choose a IAM if you have other wise you can use existing rules.

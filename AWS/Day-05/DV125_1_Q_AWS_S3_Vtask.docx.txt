@@ -1,0 +1,22 @@
+﻿S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How to create S3 bucket in AWS
+https://youtu.be/i4YFFWcyeFM
+
+
+
+
+Q1 HOW TO CREATE S3 BUCKET IN AWS?
+ANS Go to services and then click to S3 then click create a bucket, enter bucket name, chooses region, select if anytype restriction you want.
+
+Q2 How to upload an object to the bucket in AWS?
+ANS Click on upload then add a file which you want to upload in bucket then upload 
+
+Q3 How to download an object?
+ANS open a object then click to download (remember if you have download permission then after you can download it.)

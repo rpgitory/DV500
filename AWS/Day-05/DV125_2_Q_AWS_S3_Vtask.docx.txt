@@ -1,0 +1,17 @@
+﻿S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How tocreate S3 bucket versioningin AWS
+https://youtu.be/_tK5NotZfnQ
+
+
+Q1 WHAT IS OBJECT VERSIONING AND HOW IT IS USEFUL?
+ANS if you delete a anything it actually not deleting a file instead of it just create a delete marker so if you want to back to previous version you can delete a delete marker. so here object of versioning is creating a object of anything that changes in S3.
+	
+Q2 How to enable versioning using aws console?
+ANS go into property and go to versioning and enable versioning .

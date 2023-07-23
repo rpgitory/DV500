@@ -1,0 +1,24 @@
+﻿S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How tocreate and apply lifecycle rule on S3 bucket for beginners
+https://youtu.be/IkaO_JtuM1M
+
+
+
+
+Q1 WHAT IS S3 LIFECYCLE CONFIGURATION?
+ANS it is cycle which is a time file for s3 bucket so once it completed it will delete s3 bucket.
+	
+
+Q2 What are the actions we can configure in S3 lifecycle configuration?
+ANS Transition action, Expiration action, and Abort incomplete multipart upload.
+	
+
+Q3 How to create a lifecycle configuration through aws console?
+ANS go to management section then click on cycle and click to add cycle. add rule name, choose  time.
