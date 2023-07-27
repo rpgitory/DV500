@@ -1,0 +1,33 @@
+						
+						
+	Company	Year of Establishment	Industry	Type of Service used in AWS	Employees	Members
+Advertising            &   Marketing 	Canva	2013	Design & Graphics	SaaS	3500	>100M
+	Snap	2011	Social Media	Amazon Elastic Kubernetes Service (Amazon EKS),  Amazon ElastiCache, Amazon CloudFront, Amazon S3, and Amazon DynamoDB.	5,288	>360M
+	Pinterest	2009	Social Media	Amazon S3 and IAM	3,989	>450M
+	SalesForce	1999	Cloud computing Enterprise software Consulting	Amazon Chim SDK, Amazon EventBridge, Amazon CloudWatch, Amazon Transcribe	79,390	>150,000
+Financial Service	Goldman Sachs	1869	Financial Services	Amazon EC2	48,500	>14M
+	Intuit	1983	Enterprise Software	Amazon Connect, Amazon Polly, Amazon DynamoDB, Contact Lens for Amazon Connect 	17,300	>100M
+	Itau	2008	Banking Service	AWS Fargate, AWS Lambda,  Amazon Kinesis, Amazon SNS 	99,600	>65M
+	AXA	1816	Financial Services	AWS Key Management Service (AWS KMS), Amazon IAM,   Amazon GuardDuty, AWS Security Hub 	149,000	>103M
+Healthcares & Lifesciences	AstraZeneca	1999	Pharmaceutical & Biotechnology	Amazon SageMaker, Amazon SageMaker Studio, AWS Service Catalogue	83,500	>31M
+	Philips	1891	conglomerate	Amazon S3, Amazon RDS, Amazon EC2, Amazon IOT Core 	74,451	>2.5B
+	Moderna	2010	Biotechnology	Amazon S3, Amazon EC2,  Amazon Redshift, Amazon RDS	3,900	
+Hospitality & Travel	Deliveroo	2013	online Food delivery	Amazon RDS for PostgreSQL, Amazon EC2 Amazon Connect Amazon Transcribe, Amazon Translate	110,000	>7.5M
+	Korean Air	1969	Airline Industry	Amazon Redshift, Amazon SageMaker For MLOps, Amazon Managed Blockchain	20,000	>27M
+	Airbnb	2008	Lodging	AWS cost & Usage Report, Amazon S3, Amazon EC2	6,811	>150M
+	Expedia Group	1996	Travel Technology	Amazon S3, Amazon SageMaker, Amazon EC2, Amazon CloudFront, Amazon RDS, Amazon SageMaker Studio, Amazon SageMaker Pipelines 	16,500	>18M
+Industrial	BMW	1916	Car Manufacture	Amazon SageMaker, AWS Glue, AWS AppSync, Amazon Kinesis Data Firehose 	149,475	>=4M
+	iRobot	1990	Robotics	Amazon IoT Platform, Amazon Kinesis, Amazon API Gateway, Amazon Labda	1254	>17M
+	Siemens	1847	multiple industry (Energy,  Healthcare, Industrial,  Mobility,  Digital Industries,  Financial Services, Smart Infrastructure)	Amazon Security Hub, Amazon GuardDuty, AWS Config, AWS Organizations, Amazon EC2, AWS Lambda, Amazon RDS, AWS CloudFormation, AWS Marketplace, AWS Neptune, Amazon SageMaker, AMazon S3, AWS Glue 	311,000	
+Media & Entertianment	Netflix	2007	Entertainmeent & OTT Streaming 	AWS SES, Aws Local Zones, AWS EC2,  NICE DCV, AWS EC2 G5 instance 	12,800	>238M
+	Epic Games	1991	Video Games	AWS EC2	2,200	>230M
+	FOX	1996	News & Entertainment	Amazon SageMaker, AWS Media Service, AWS IEM, AWS EC2, S3, Amazon MQ, Amazon Workspace, AWS Professional Service 	9,000	>87M
+	PBS	1969	Public Broadcaster 	AWS EC2, AWS Media Service, AWS S3, AWS CloudFront 	2,277	>100M
+Retails & Consumer Package Goods	AWS	2002	Web Services	Cloud Computing 	135,000	>1M
+	Coca Cola 	1886	Beverages 	Amazon Athena, AWS Lambda, Amazon SageMaker, Amazon Professional Services,  	82,500	>320M
+	Mercado Libre	1999	E-Commerce	Amazon Athena, AWS Lambda, Amazon SageMaker, Amazon Professional Services,  	40,548	>148M
+	Natura & CO.	1969	Cosmetic	AWS Professional Services,  AWS well-Architecture Framework, Amazon Aurora, Amazon Cloud Watch 	35,000	>7M
+Sports	bundesliga	1969	Sprots (Soccer)	Amazon SageMaker, Amazon Lambda, Amazon Fargate, Amazon DynamoDB, Amazon ECS, Amazon Glacier, Amazon Textract, AWS CloudFront, AWS Elemental  	31,602	>6M
+	F1	1950	MotorSport 	Amazon Redshift, AWS EC2, AWS API Gateway, AWS Lambda, Amazon DynamoDB, Amazon SegaMaker, Amazon Cloudwatch, AWS S3, Amazon Kinesis  	1200	>445M
+	Ferrari	1939	Automitive	Amazon SageMaker, Analytics on AWS 	4571	>220,000
+	MLSEMLSE (Maple Leaf Sports & Entertainment)	1931	Professional Sports & Property Management	Amazon SageMaker, AWS EC2,	4750	>30M
