@@ -11,4 +11,12 @@ ls -l [list all files with file permission and owner information and group, user
 ls . [list file in current directory]
 ls .. [double dote is for parent directory so we can see the availables files in parent directory also]
 ls -al . or ls -al [this is two identical commands bcz by default whenever we use ls it by default will take current path as executing command]
+ls -ltu [here 'u' argument will display a files which is modified by content]
 
+- Sort a files based on size, time.
+ls -lt [will list all files and will display last modified file in first position]
+
+ls -lS [sort by file size; largest first]
+
+- Recursive 
+ls -R [display recursive files if there is a directory and it contains files]
