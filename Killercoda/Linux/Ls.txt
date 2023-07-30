@@ -11,3 +11,4 @@ ls -l [list all files with file permission and owner information and group, user
 ls . [list file in current directory]
 ls .. [double dote is for parent directory so we can see the availables files in parent directory also]
 ls -al . or ls -al [this is two identical commands bcz by default whenever we use ls it by default will take current path as executing command]
+
